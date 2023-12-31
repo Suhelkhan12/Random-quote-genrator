@@ -1,0 +1,14 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.appBg {
+  display: flex;
+  height: 100%;
+  background-image: url("./assets/lines.svg"), url("./assets/lines2.svg"),
+    linear-gradient(#1a1a38, #15151d);
+  background-position: 50% 100%, 50% 0, 50% 100%, 0 0;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-size: auto, auto, auto, auto;
+}

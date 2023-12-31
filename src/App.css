@@ -5,6 +5,8 @@
 
 .appBg {
   display: flex;
+  justify-content: center;
+  align-items: center;
   height: 100%;
   background-image: url("./assets/lines.svg"), url("./assets/lines2.svg"),
     linear-gradient(#1a1a38, #15151d);

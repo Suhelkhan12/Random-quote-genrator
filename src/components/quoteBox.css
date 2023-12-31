@@ -1,0 +1,15 @@
+.quoteBox {
+  width: 50rem;
+  height: 25rem;
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 1.5rem 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+h1 {
+  color: #111;
+  text-align: center;
+}
